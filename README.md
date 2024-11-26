@@ -58,8 +58,8 @@ After completing this challenge, I feel confident not only in my understanding o
 
 Looking forward, I not only plan to continue to build out new features on my cloud resume such as a geo tracker and more analytics, but I also plan to continue working within AWS to build new projects. The lessons and skills that I learned from this challenge will help me with whatever avenue I decide to pursue both after college and with future technical projects.
 
-Check out the website here! And please check out the other repositories below!
+Check out the website here(http://samuelnielsen.com/)! And please check out the other repositories below!
 
-- [Frontend](#)
-- [Backend](#)
-- [IaC](#)
+- [Frontend](https://github.com/sambidiah/cloud_resume_frontend)
+- [Backend](https://github.com/sambidiah/cloud_resume_backend)
+- [IaC](https://github.com/sambidiah/cloud_resume_infrastructure)
