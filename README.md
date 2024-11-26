@@ -20,7 +20,7 @@ The Cloud Resume was broken up into three different components: the frontend, ba
   - I used CloudFront to cache my website and to make sure it was secure over HTTPS.
   
 - **AWS Route 53:**
-  - After buying the custom domain name (samuelnielsen.com) from Namecheap, I linked the website using Route 53. To do this, I ensured that the domain name would point to my CloudFront cache, making accessing the website both easy and fast.
+  - After buying the custom domain name ([samuelnielsen.com](http://samuelnielsen.com/)) from Namecheap, I linked the website using Route 53. To do this, I ensured that the domain name would point to my CloudFront cache, making accessing the website both easy and fast.
 
 ## 2. Backend: This managed the dynamic part of the website, specifically the visitor count.
 
@@ -58,7 +58,7 @@ After completing this challenge, I feel confident not only in my understanding o
 
 Looking forward, I not only plan to continue to build out new features on my cloud resume such as a geo tracker and more analytics, but I also plan to continue working within AWS to build new projects. The lessons and skills that I learned from this challenge will help me with whatever avenue I decide to pursue both after college and with future technical projects.
 
-Check out the website here(http://samuelnielsen.com/)! And please check out the other repositories below!
+Check out the website [here](http://samuelnielsen.com/)! And please check out the other repositories below!
 
 - [Frontend](https://github.com/sambidiah/cloud_resume_frontend)
 - [Backend](https://github.com/sambidiah/cloud_resume_backend)
